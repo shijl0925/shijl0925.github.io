@@ -13,5 +13,5 @@ tags:
 
 ## 目录
 
-- 第 1 章：[概述](01.html)
-- 第 2 章：[基本数据类型](02.html)
+- 第 1 章：[概述](https://shijl0925.github.io/Go-Language-Learning-Notes/01.html)
+- 第 2 章：[基本数据类型](https://shijl0925.github.io/Go-Language-Learning-Notes/02.html)
